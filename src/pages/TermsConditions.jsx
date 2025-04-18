@@ -15,6 +15,13 @@ const TermsAndConditions = () => {
           nor their independent professional activity.
         </p>
       </section>
+
+      <section className="mb-6">
+        <h2 className="text-xl font-semibold bg-yellow-100 p-2">Important Booking Notice</h2>
+        <p className="font-semibold text-red-600">
+          These vehicles can be booked exclusively via Belius. Direct bookings are excluded.
+        </p>
+      </section>
       
       <section className="mb-6">
         <h2 className="text-xl font-semibold">2. Contractual Partner</h2>
