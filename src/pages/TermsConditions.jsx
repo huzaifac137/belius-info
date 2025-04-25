@@ -66,6 +66,18 @@ const TermsAndConditions = () => {
       </section>
 
       <section className="mb-6">
+        <h2 className="text-xl font-semibold">7. Late Return Policy</h2>
+        <p className="mb-2">
+          If you are unable to return the car within the selected rental period, additional charges will apply based on the following rules:
+        </p>
+        <ul className="list-disc pl-6 space-y-2">
+          <li>First 5 minutes beyond the return time will be granted as a grace period (no charge)</li>
+          <li>After the initial 5-minute grace period, extra charges will be applied in 5-minute increments</li>
+          <li>The extra amount will be calculated according to the vehicle's per-hour rental rate</li>
+        </ul>
+      </section>
+
+      <section className="mb-6">
         <h2 className="text-xl font-semibold">9. Delivery and Delivery Time</h2>
         <p>
           Deliveries are possible abroad. Estimated delivery times depend on the product,
